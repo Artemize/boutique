@@ -1,0 +1,41 @@
+etapes de creation
+
+#1 modelisation de la bdd(papier, workbench...)
+
+#2cree la bdd
+
+#3 structure de notre dossier (2 site fonrt back, fichier d'inclusions)
+
+    >boutique
+
+        >admin
+            >assets 
+                >css
+
+            >inc
+                >header.php
+                >footer.php
+
+            index.php
+
+        >assets
+            >css
+            >js
+            >img
+
+        >inc
+
+            header.php
+            footer.php
+            init.php
+            fonction.php
+
+        index.php
+
+#4 co a la bdd(init.php) + ouverture de session + déclaration de varaible, fonctions ...
+
+
+#5 devellopper l'index.php(front basique)
+
+#6dévellopper la page d'incription.php(formulaire,traitement & sécurité)
+
